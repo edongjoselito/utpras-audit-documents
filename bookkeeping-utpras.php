@@ -1,42 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-   <title>UTRPAS AND AC ACCREDITATION DOCUMENTS</title>
+  <title>UTRPAS AND AC ACCREDITATION DOCUMENTS</title>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     body {
       font-family: 'Roboto', sans-serif;
     }
+
     a {
       @apply text-blue-600 hover:underline;
     }
   </style>
 </head>
+
 <body class="bg-gray-50 text-gray-800">
 
   <!-- Sticky Header with Pink Banner -->
-  <header class="bg-pink-500 text-white py-4 px-6 shadow fixed top-0 left-0 w-full z-50">
+  <header class="bg-blue-900 text-white py-6 shadow">
     <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center md:justify-between">
       <div class="flex items-center space-x-4">
-        <img src="https://via.placeholder.com/60" alt="School Logo" class="w-14 h-14 rounded-full border-2 border-white shadow" />
+        <img src="images/logo.jpg" alt="CANDORTCI LOGO" class="w-14 h-14 rounded-full border-2 border-white shadow" />
         <div>
           <h1 class="text-lg md:text-xl font-bold leading-tight uppercase">
             Christian Academy in Davao Oriental Technological Colleges, Inc.
           </h1>
           <p class="text-sm">Program Documentation and Accreditation Requirements</p>
           <span class="inline-block mt-2 px-3 py-1 text-sm font-bold bg-white text-pink-600 rounded-full shadow">
-            WEB DEVELOPMENT NC III
+            BOOKKEEPING NC III
           </span>
         </div>
       </div>
+
+      <!-- Navigation link -->
+      <div class="mt-4 md:mt-0">
+        <a href="index.php" class="bg-white text-blue-900 px-4 py-2 rounded-full font-semibold shadow hover:bg-gray-200 transition duration-300">
+          ← Back to Home
+        </a>
+      </div>
+
     </div>
   </header>
 
   <!-- Spacer -->
-  <div class="h-[120px]"></div>
+  <div class="h-[16px]"></div>
 
   <!-- Main Content -->
   <main class="max-w-6xl mx-auto p-6 space-y-6">
@@ -106,6 +117,18 @@
       </ul>
     </section>
 
+
+    <section class="bg-white shadow rounded-xl p-6">
+      <h2 class="text-xl font-semibold mb-4">OTHER DOCUMENTS</h2>
+      <ul class="list-disc pl-6 space-y-2">
+        <li><a href="#">List of Graduates</a></li>
+        <li><a href="#">Employment Report</a></li>
+        <li><a href="#">Training - Progress Monitoring</a></li>
+        <li><a href="#">Training - Institutional Assessment MOVs</a></li>
+      </ul>
+    </section>
+
   </main>
 </body>
+
 </html>
