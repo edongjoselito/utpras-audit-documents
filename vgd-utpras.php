@@ -58,10 +58,9 @@
       <ul class="list-disc pl-6 space-y-2">
         <li><a href="#">Letter of Application/Intent (TESDA-OP-CO-F03)</a></li>
         <li><a href="#">Board Resolution/Academic Council Resolution signed by Board Secretary and Chairperson</a></li>
-        <li><a href="#">Special law creating the institution (e.g., Republic Act, EO, Resolutions)</a></li>
         <li><a href="#">SEC Registration for private institutions</a></li>
-        <li><a href="#">Articles of Incorporation (include main address)</a></li>
-        <li><a href="#">Proof of building ownership or valid lease contract (min. 2 years)</a></li>
+        <li><a href="#">Articles of Incorporation</a></li>
+        <li><a href="#">Proof of building ownership or valid lease contract</a></li>
         <li><a href="#">Current Fire Safety Certificate (for training site)</a></li>
       </ul>
     </section>
@@ -117,11 +116,24 @@
       </ul>
     </section>
 
+    <section class="bg-white shadow rounded-xl p-6">
+      <h2 class="text-xl font-semibold mb-4">MOBILE TRAINING PROGRAM</h2>
+      <ul class="list-disc pl-6 space-y-2">
+
+        <li><a href="https://docs.google.com/document/d/1xR36N4CFJykIflsAr4cwYkjsH_LZmRbu/edit?usp=sharing&ouid=110066675113416273292&rtpof=true&sd=true" target="_blank">Training Plan ✔️</a></li>
+        <li><a href="https://docs.google.com/document/d/1xVCymWnQY-Xj_sm3ufBxUue9nO5kYdj1/edit?usp=sharing&ouid=110066675113416273292&rtpof=true&sd=true" target="_blank">List of Trainers <span style="color: red;">(raw file, not signed)</span></a></li>
+        <li><a href="https://docs.google.com/document/d/1x2aXIrpR_Z6UYAzv_wwRDhPcKc4wR5x5/edit?usp=sharing&ouid=110066675113416273292&rtpof=true&sd=true" target="_blank">List of Equipment <span style="color: red;">(raw file, not signed)</span></a></li>
+        <li><a href="https://docs.google.com/document/d/1xZJY5s1xaK8Pvyfm_Alz5C6t_R7ygISK/edit?usp=sharing&ouid=110066675113416273292&rtpof=true&sd=true" target="_blank">List of Tools <span style="color: red;">(raw file, not signed)</span></a></li>
+        <li><a href="https://docs.google.com/document/d/1x2BKQvLUhkiSgGLo1ydEJ4L4Qr7eQ_kV/edit?usp=sharing&ouid=110066675113416273292&rtpof=true&sd=true" target="_blank">List of Instructional Materials <span style="color: red;">(raw file, not signed)</span></a></li>
+        <!-- <li><a href="#">Training - Institutional Assessment MOVs</a></li>  -->
+      </ul>
+    </section>
 
     <section class="bg-white shadow rounded-xl p-6">
       <h2 class="text-xl font-semibold mb-4">OTHER DOCUMENTS</h2>
       <ul class="list-disc pl-6 space-y-2">
-        <li><a href="#">List of Graduates</a></li>
+        <li><a href="https://drive.google.com/file/d/1BfYiAxo1n_GYRlyQXFiHjFFiVT77Co-d/view?usp=sharing" target="_blank">Certificate of Program Registration ✔️</a> </li>
+
         <li><a href="#">Employment Report</a></li>
         <li><a href="#">Training - Progress Monitoring</a></li>
         <li><a href="#">Training - Institutional Assessment MOVs</a></li>

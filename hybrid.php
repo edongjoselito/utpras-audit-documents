@@ -60,9 +60,9 @@
         <li><a href="#">Board Resolution/Academic Council Resolution signed by Board Secretary and Chairperson</a></li>
         <li><a href="#">Special law creating the institution (e.g., Republic Act, EO, Resolutions)</a></li>
         <li><a href="#">SEC Registration for private institutions</a></li>
-        <li><a href="#">Articles of Incorporation (include main address)</a></li>
-        <li><a href="#">Proof of building ownership or valid lease contract (min. 2 years)</a></li>
-        <li><a href="#">Current Fire Safety Certificate (for training site)</a></li>
+        <li><a href="#">Articles of Incorporation</a></li>
+        <li><a href="#">Proof of building ownership or valid lease contract</a></li>
+        <li><a href="#">Current Fire Safety Certificate </a></li>
       </ul>
     </section>
 
@@ -71,7 +71,9 @@
       <h2 class="text-xl font-semibold mb-4">2. CURRICULAR REQUIREMENTS</h2>
       <ul class="list-disc pl-6 space-y-2">
         <li>
-          <a href="#">Competency-based Curriculum (TESDA-OP-CO-01-F11)</a>
+          <a href="https://drive.google.com/file/d/1aAaViZddjxRa-HQAZVdmKhkiAsNudccp/view?usp=sharing" target="_blank">
+            Competency-based Curriculum (TESDA-OP-CO-01-F11) ✔️
+          </a>
           <ul class="list-disc pl-6 mt-1 space-y-1">
             <li><a href="#">Course Design</a></li>
             <li><a href="#">Modules of Instruction</a></li>
@@ -81,9 +83,10 @@
         <li><a href="#">Instructional Materials (TESDA-OP-CO-01-F16)</a></li>
         <li><a href="#">Physical Facilities (TESDA-OP-CO-01-F17, F18)</a></li>
         <li><a href="#">Shop layout with indicated floor area</a></li>
-        <li><a href="#">Institutional Assessment (tools shown during inspection)</a></li>
+        <li><a href="https://drive.google.com/file/d/1GtkosqZtwFEPdFRAofTXAKpp3QB0vbXc/view?usp=sharing" target="_blank">Institutional Assessment ✔️</a></li>
       </ul>
     </section>
+
 
     <!-- Section 3 -->
     <section class="bg-white shadow rounded-xl p-6">
@@ -121,6 +124,7 @@
     <section class="bg-white shadow rounded-xl p-6">
       <h2 class="text-xl font-semibold mb-4">OTHER DOCUMENTS</h2>
       <ul class="list-disc pl-6 space-y-2">
+        <li><a href="https://drive.google.com/file/d/1Ct_IohLaWORxUGLJwzZbni9MGxjrIhLJ/view?usp=sharing" target="_blank">Certificate of Program Registration ✔️</a> </li>
         <li><a href="#">List of Graduates</a></li>
         <li><a href="#">Employment Report</a></li>
         <li><a href="#">Training - Progress Monitoring</a></li>

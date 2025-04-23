@@ -121,6 +121,8 @@
     <section class="bg-white shadow rounded-xl p-6">
       <h2 class="text-xl font-semibold mb-4">OTHER DOCUMENTS</h2>
       <ul class="list-disc pl-6 space-y-2">
+        <li><a href="https://drive.google.com/file/d/1CF5kyD_jTSNKn3GcXxfTIvxuWffaoXWf/view?usp=sharing" target="_blank">Certificate of Program Registration ✔️</a> </li>
+        <li><a href="https://drive.google.com/file/d/1C8OLVJWd3x4IqUOVQqiAS0mQvXw04KA8/view?usp=sharing" target="_blank">Certificate of Program Registration - Flexible Learning ✔️</a> </li>
         <li><a href="#">List of Graduates</a></li>
         <li><a href="#">Employment Report</a></li>
         <li><a href="#">Training - Progress Monitoring</a></li>
