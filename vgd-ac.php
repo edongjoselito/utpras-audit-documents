@@ -56,7 +56,7 @@
     <section class="mt-2">
       <h2 class="text-xl font-bold mb-4">Assessment Center Accreditation Requirements</h2>
       <ol class="list-decimal list-inside space-y-2 bg-white p-6 rounded shadow">
-        <li><a href="#">Letter of Intent</a></li>
+        <li><a href="https://drive.google.com/file/d/1kEf6nnjaS04_swMDudaqXy4RD6xNKGgV/view?usp=sharing">Letter of Intent</a></li>
         <li><a href="#">SEC Registration <span style="color: red;">(Not Complete)</span> </a></li>
         <li>
           <a href="#">Financial Statement <span style="color: red;">(Not the Latest)</span></a>
