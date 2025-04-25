@@ -56,7 +56,7 @@
     <section class="mt-2">
       <h2 class="text-xl font-bold mb-4">Assessment Center Accreditation Requirements</h2>
       <ol class="list-decimal list-inside space-y-2 bg-white p-6 rounded shadow">
-        <li><a href="https://drive.google.com/file/d/1kEf6nnjaS04_swMDudaqXy4RD6xNKGgV/view?usp=sharing">Letter of Intent</a></li>
+        <li><a href="https://drive.google.com/file/d/1kEf6nnjaS04_swMDudaqXy4RD6xNKGgV/view?usp=sharing" target="_blank">Letter of Intent ✔️</a></li>
         <li><a href="#">SEC Registration <span style="color: red;">(Not Complete)</span> </a></li>
         <li>
           <a href="#">Financial Statement <span style="color: red;">(Not the Latest)</span></a>
@@ -65,18 +65,18 @@
             <li>For Existing: Latest Audited by a third party</li>
           </ul>
         </li>
-        <li><a href="#">Business Permit (2025)</a></li>
+        <li><a href="https://drive.google.com/file/d/1rP5E05n58YLWZ8GZtakjjvc-U6smbBGB/view?usp=drive_link" target="_blank">Business Permit (2025) ✔️</a></li>
         <li><a href="#">Fire Safety Certificate <span style="color: red;">(Expired)</span></a></li>
-        <li><a href="#">BIR Registration (Valid)</a></li>
-        <li><a href="#">Company Profile</a></li>
-        <li><a href="#">Organizational Structure</a></li>
+        <li><a href="https://drive.google.com/file/d/1VH_QYls5-kryfvPdV3Ld8sWwZPczWGsr/view?usp=drive_link" target="_blank">BIR Registration (Valid) ✔️</a></li>
+        <li><a href="https://drive.google.com/file/d/1_GViMNT1b8uoAqsuOz2eqQcx3_Dy8CYB/view?usp=drive_link" target="_blank">Company Profile ✔️</a></li>
+        <li><a href="https://drive.google.com/file/d/1Ox4c_I1ZBUhL_JIJK759qSEQetsLZ3Pj/view?usp=drive_link" target="_blank">Organizational Structure ✔️</a></li>
         <li>
           <a href="#">Staff Complement and Profile</a>
           <ul class="list-disc list-inside ml-4">
-            <li><a href="#">Erwin J. Cabrizos</a></li>
-            <li><a href="#">Marie Carmel M. Cabrizos</a></li>
-            <li><a href="#">Fabian L. Mapayo</a></li>
-            <li><a href="#">Donna Marie C. Atoy</a></li>
+            <li><a href="https://drive.google.com/file/d/1VsW4Poz0VSG3E_nod6j9ETKUeS29NR_Z/view?usp=drive_link" target="_blank">Erwin J. Cabrizos ✔️</a></li>
+            <li><a href="https://drive.google.com/file/d/1Qv6_sXy1U5Dvlb0I-iS29DUeOkXEYrjw/view?usp=drive_link" target="_blank">Marie Carmel M. Cabrizos ✔️</a></li>
+            <li><a href="https://drive.google.com/file/d/17oPFd29Ap_PtJEqdVnQjkmeryjhlR2oU/view?usp=drive_link" target="_blank">Fabian L. Mapayo ✔️</a></li>
+            <li><a href="https://drive.google.com/file/d/1dRlytG_gkG8JSHdrFIJz_Cvmg7w61u01/view?usp=drive_link" target="_blank">Donna Marie C. Atoy ✔️</a></li>
           </ul>
         </li>
         <li><a href="#">Building lay-out/floor plan/shop lay-out</a></li>
