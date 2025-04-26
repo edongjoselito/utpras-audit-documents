@@ -74,9 +74,9 @@
           <a href="#">Staff Complement and Profile</a>
           <ul class="list-disc list-inside ml-4">
             <li><a href="https://drive.google.com/file/d/1VsW4Poz0VSG3E_nod6j9ETKUeS29NR_Z/view?usp=drive_link" target="_blank">Erwin J. Cabrizos ✔️</a></li>
-            <li><a href="https://drive.google.com/file/d/1Qv6_sXy1U5Dvlb0I-iS29DUeOkXEYrjw/view?usp=drive_link" target="_blank">Marie Carmel M. Cabrizos ✔️</a></li>
-            <li><a href="https://drive.google.com/file/d/17oPFd29Ap_PtJEqdVnQjkmeryjhlR2oU/view?usp=drive_link" target="_blank">Fabian L. Mapayo ✔️</a></li>
-            <li><a href="https://drive.google.com/file/d/1dRlytG_gkG8JSHdrFIJz_Cvmg7w61u01/view?usp=drive_link" target="_blank">Donna Marie C. Atoy ✔️</a></li>
+            <li><a href="https://drive.google.com/file/d/1Qv6_sXy1U5Dvlb0I-iS29DUeOkXEYrjw/view?usp=drive_link" target="_blank">Marie Carmel M. Cabrizos ✔️<span style="color: red;">Request clear copy of her documents</span></a></li>
+            <li><a href="https://drive.google.com/file/d/17oPFd29Ap_PtJEqdVnQjkmeryjhlR2oU/view?usp=drive_link" target="_blank">Fabian L. Mapayo ✔️<span style="color: red;">Contract of Service expired</span></a></li>
+            <li><a href="https://drive.google.com/file/d/1dRlytG_gkG8JSHdrFIJz_Cvmg7w61u01/view?usp=drive_link" target="_blank">Donna Marie C. Atoy ✔️ <span style="color: red;">No Appointment as Liason Officer, Appointment as HRM already expired</span></a></li>
           </ul>
         </li>
         <li><a href="#">Building lay-out/floor plan/shop lay-out</a></li>
