@@ -121,6 +121,7 @@
     <section class="bg-white shadow rounded-xl p-6">
       <h2 class="text-xl font-semibold mb-4">OTHER DOCUMENTS</h2>
       <ul class="list-disc pl-6 space-y-2">
+        <li><a href="https://drive.google.com/file/d/1EHfwfQ65L9t2VRbfBBW7ohgT1to4GNeq/view?usp=sharing" target="_blank">Complete Application Documents ✔️</a></li>
         <li><a href="#">List of Graduates</a></li>
         <li><a href="#">Employment Report</a></li>
         <li><a href="#">Training - Progress Monitoring</a></li>
