@@ -41,6 +41,8 @@
       <li><a href="android.php" class="flex items-center gap-2 p-4 bg-white shadow rounded hover:bg-blue-50 transition"><i class="fab fa-android"></i> Android Apps Development (NTR)</a></li>
       <li><a href="bookkeeping-utpras.php" class="flex items-center gap-2 p-4 bg-white shadow rounded hover:bg-blue-50 transition"><i class="fas fa-book"></i> Bookkeeping NC III</a></li>
       <li><a href="driving-utpras.php" class="flex items-center gap-2 p-4 bg-white shadow rounded hover:bg-blue-50 transition"><i class="fas fa-car"></i> Driving NC II</a></li>
+      <li><a href="jl.php" class="flex items-center gap-2 p-4 bg-white shadow rounded hover:bg-blue-50 transition"><i class="fas fa-car"></i> Japanese Language</a></li>
+      <li><a href="fels.php" class="flex items-center gap-2 p-4 bg-white shadow rounded hover:bg-blue-50 transition"><i class="fas fa-car"></i> Facilitae e-Learning Sessions (FeLS)</a></li>
       <li><a href="dit.php" class="flex items-center gap-2 p-4 bg-white shadow rounded hover:bg-blue-50 transition"><i class="fas fa-car"></i> Diploma in Information Technology</a></li>
     </ul>
 
