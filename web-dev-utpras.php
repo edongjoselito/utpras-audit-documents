@@ -20,7 +20,7 @@
 
 <body class="bg-gray-50 text-gray-800">
 
-  <!-- Sticky Header with Pink Banner -->
+  <!-- Header -->
   <header class="bg-blue-900 text-white py-6 shadow">
     <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center md:justify-between">
       <div class="flex items-center space-x-4">
@@ -35,102 +35,176 @@
           </span>
         </div>
       </div>
-
-      <!-- Navigation link -->
       <div class="mt-4 md:mt-0">
         <a href="index.php" class="bg-white text-blue-900 px-4 py-2 rounded-full font-semibold shadow hover:bg-gray-200 transition duration-300">
           ← Back to Home
         </a>
       </div>
-
     </div>
   </header>
 
   <!-- Spacer -->
-  <div class="h-[16px]"></div>
+  <div class="h-4"></div>
 
   <!-- Main Content -->
   <main class="max-w-6xl mx-auto p-6 space-y-6">
-
-    <!-- Section 1 -->
     <section class="bg-white shadow rounded-xl p-6">
-      <h2 class="text-xl font-semibold mb-4">1. CORPORATE AND ADMINISTRATIVE DOCUMENTS</h2>
-      <ul class="list-disc pl-6 space-y-2">
-        <li><a href="#">Letter of Application/Intent (TESDA-OP-CO-F03)</a></li>
-        <li><a href="#">Board Resolution/Academic Council Resolution signed by Board Secretary and Chairperson</a></li>
-        <li><a href="#">Special law creating the institution (e.g., Republic Act, EO, Resolutions)</a></li>
-        <li><a href="#">SEC Registration for private institutions</a></li>
-        <li><a href="#">Articles of Incorporation (include main address)</a></li>
-        <li><a href="#">Proof of building ownership or valid lease contract (min. 2 years)</a></li>
-        <li><a href="#">Current Fire Safety Certificate (for training site)</a></li>
-      </ul>
+      <h2 class="text-2xl font-semibold mb-6">Accreditation Documents</h2>
+
+      <div class="overflow-x-auto">
+        <table class="min-w-full table-auto border-collapse">
+          <thead>
+            <tr class="bg-blue-100 text-left text-sm font-semibold text-gray-700">
+              <th class="border p-3">Section</th>
+              <th class="border p-3">Document Name</th>
+              <th class="border p-3">Status</th>
+            </tr>
+          </thead>
+          <tbody class="text-sm">
+            <!-- Section 1 -->
+            <tr class="bg-gray-50">
+              <td class="border p-3" rowspan="7">Corporate and Administrative Documents</td>
+              <td class="border p-3"><a href="#">Letter of Application/Intent (TESDA-OP-CO-F03)</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-white">
+              <td class="border p-3"><a href="#">Board Resolution/Academic Council Resolution</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <td class="border p-3"><a href="#">Special Law Creating the Institution</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-white">
+              <td class="border p-3"><a href="#">SEC Registration</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <td class="border p-3"><a href="#">Articles of Incorporation</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-white">
+              <td class="border p-3"><a href="#">Proof of Building Ownership or Lease Contract</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <td class="border p-3"><a href="#">Current Fire Safety Certificate</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+
+            <!-- Section 2 -->
+            <tr class="bg-white">
+              <td class="border p-3" rowspan="6">Curricular Requirements</td>
+              <td class="border p-3"><a href="#">Competency-based Curriculum</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <td class="border p-3 pl-8"><a href="#">Course Design</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-white">
+              <td class="border p-3 pl-8"><a href="#">Modules of Instruction</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <td class="border p-3"><a href="#">List of Equipment, Tools, and Consumables</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-white">
+              <td class="border p-3"><a href="#">Instructional Materials</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <td class="border p-3"><a href="#">Physical Facilities & Shop Layout</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+
+            <!-- Section 3 -->
+            <tr class="bg-white">
+              <td class="border p-3" rowspan="3">Faculty and Personnel</td>
+              <td class="border p-3"><a href="#">List of Officials</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <td class="border p-3"><a href="#">List of Trainers with Certifications</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-white">
+              <td class="border p-3"><a href="#">List of Non-Teaching Staff</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+
+            <!-- Section 4 -->
+            <tr class="bg-gray-50">
+              <td class="border p-3" rowspan="4">Program Guidelines</td>
+              <td class="border p-3"><a href="#">Program Fees with Breakdown</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-white">
+              <td class="border p-3"><a href="#">Documented Grading System</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <td class="border p-3"><a href="#">Entry Requirements</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-white">
+              <td class="border p-3"><a href="#">Rules on Attendance</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+
+            <!-- Section 5 -->
+            <tr class="bg-gray-50">
+              <td class="border p-3" rowspan="4">Support Services</td>
+              <td class="border p-3"><a href="#">Health Services</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-white">
+              <td class="border p-3"><a href="#">Job Linkaging and Networking Services (JLNS)</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <td class="border p-3"><a href="#">Community Outreach Program (Optional)</a></td>
+              <td class="border p-3">Optional</td>
+            </tr>
+            <tr class="bg-white">
+              <td class="border p-3"><a href="#">Research Program (Optional)</a></td>
+              <td class="border p-3">Optional</td>
+            </tr>
+
+            <!-- Other Documents -->
+            <tr class="bg-gray-50">
+              <td class="border p-3" rowspan="6">Other Documents</td>
+              <td class="border p-3"><a href="https://drive.google.com/file/d/1CD0SdsSvAWNVJ9x_OmikiSuJsms_TbuU/view?usp=sharing" target="_blank">Certificate of Program Registration ✔️</a></td>
+              <td class="border p-3">Complete</td>
+            </tr>
+            <tr class="bg-white">
+              <td class="border p-3"><a href="https://drive.google.com/file/d/1C4ci8pug0brPjVcoiTDnvBaT8nQWjTlv/view?usp=sharing" target="_blank">Certificate of Program Registration - Flexible Learning ✔️</a></td>
+              <td class="border p-3">Complete</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <td class="border p-3"><a href="#">List of Graduates</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-white">
+              <td class="border p-3"><a href="#">Employment Report</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-gray-50">
+              <td class="border p-3"><a href="#">Training - Progress Monitoring</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+            <tr class="bg-white">
+              <td class="border p-3"><a href="#">Training - Institutional Assessment MOVs</a></td>
+              <td class="border p-3">Pending</td>
+            </tr>
+
+          </tbody>
+        </table>
+      </div>
     </section>
-
-    <!-- Section 2 -->
-    <section class="bg-white shadow rounded-xl p-6">
-      <h2 class="text-xl font-semibold mb-4">2. CURRICULAR REQUIREMENTS</h2>
-      <ul class="list-disc pl-6 space-y-2">
-        <li>
-          <a href="#">Competency-based Curriculum (TESDA-OP-CO-01-F11)</a>
-          <ul class="list-disc pl-6 mt-1 space-y-1">
-            <li><a href="#">Course Design</a></li>
-            <li><a href="#">Modules of Instruction</a></li>
-          </ul>
-        </li>
-        <li><a href="#">List of Equipment, Tools, and Consumables (TESDA-OP-CO-01-F13 to F15)</a></li>
-        <li><a href="#">Instructional Materials (TESDA-OP-CO-01-F16)</a></li>
-        <li><a href="#">Physical Facilities (TESDA-OP-CO-01-F17, F18)</a></li>
-        <li><a href="#">Shop layout with indicated floor area</a></li>
-        <li><a href="#">Institutional Assessment (tools shown during inspection)</a></li>
-      </ul>
-    </section>
-
-    <!-- Section 3 -->
-    <section class="bg-white shadow rounded-xl p-6">
-      <h2 class="text-xl font-semibold mb-4">3. FACULTY AND PERSONNEL</h2>
-      <ul class="list-disc pl-6 space-y-2">
-        <li><a href="#">List of Officials (TESDA-OP-CO-01-F19)</a></li>
-        <li><a href="#">List of Trainers (TESDA-OP-CO-01-F20) with qualifications, certifications, and contracts</a></li>
-        <li><a href="#">List of Non-Teaching Staff (TESDA-OP-CO-01-F21) with supporting documentation</a></li>
-      </ul>
-    </section>
-
-    <!-- Section 4 -->
-    <section class="bg-white shadow rounded-xl p-6">
-      <h2 class="text-xl font-semibold mb-4">4. PROGRAM GUIDELINES</h2>
-      <ul class="list-disc pl-6 space-y-2">
-        <li><a href="#">Program fees with breakdown and fee schedule signed by school head</a></li>
-        <li><a href="#">Documented grading system provided to students</a></li>
-        <li><a href="#">Entry requirements comply with training regulations</a></li>
-        <li><a href="#">Rules on attendance</a></li>
-      </ul>
-    </section>
-
-    <!-- Section 5 -->
-    <section class="bg-white shadow rounded-xl p-6">
-      <h2 class="text-xl font-semibold mb-4">5. SUPPORT SERVICES</h2>
-      <ul class="list-disc pl-6 space-y-2">
-        <li><a href="#">Health services (MOA/contract if outsourced)</a></li>
-        <li><a href="#">Job Linkaging and Networking Services (JLNS) – TESDA Circular 38, s.2016</a></li>
-        <li><a href="#">Optional: Community outreach program</a></li>
-        <li><a href="#">Optional: Research program to support ongoing development</a></li>
-      </ul>
-    </section>
-
-
-    <section class="bg-white shadow rounded-xl p-6">
-      <h2 class="text-xl font-semibold mb-4">OTHER DOCUMENTS</h2>
-      <ul class="list-disc pl-6 space-y-2">
-        <li><a href="https://drive.google.com/file/d/1CD0SdsSvAWNVJ9x_OmikiSuJsms_TbuU/view?usp=sharing" target="_blank">Certificate of Program Registration ✔️</a> </li>
-        <li><a href="https://drive.google.com/file/d/1C4ci8pug0brPjVcoiTDnvBaT8nQWjTlv/view?usp=sharing" target="_blank">Certificate of Program Registration - Flexible Learning ✔️</a> </li>
-        <li><a href="#">List of Graduates</a></li>
-        <li><a href="#">Employment Report</a></li>
-        <li><a href="#">Training - Progress Monitoring</a></li>
-        <li><a href="#">Training - Institutional Assessment MOVs</a></li>
-      </ul>
-    </section>
-
   </main>
+
 </body>
 
 </html>

@@ -31,7 +31,7 @@
           </h1>
           <p class="text-sm">Program Documentation and Accreditation Requirements</p>
           <span class="inline-block mt-2 px-3 py-1 text-sm font-bold bg-white text-pink-600 rounded-full shadow">
-            CONTACT CENTER SERVICES NC II
+            DIPLOMA IN INFORMATION TECHNOLOGY
           </span>
         </div>
       </div>
@@ -121,7 +121,8 @@
     <section class="bg-white shadow rounded-xl p-6">
       <h2 class="text-xl font-semibold mb-4">OTHER DOCUMENTS</h2>
       <ul class="list-disc pl-6 space-y-2">
-        <li><a href="https://drive.google.com/file/d/1EHfwfQ65L9t2VRbfBBW7ohgT1to4GNeq/view?usp=sharing" target="_blank">Complete Application Documents ✔️</a></li>
+        <li><a href="https://drive.google.com/file/d/1CD0SdsSvAWNVJ9x_OmikiSuJsms_TbuU/view?usp=sharing" target="_blank">Certificate of Program Registration ✔️</a> </li>
+        <li><a href="https://drive.google.com/file/d/1C4ci8pug0brPjVcoiTDnvBaT8nQWjTlv/view?usp=sharing" target="_blank">Certificate of Program Registration - Flexible Learning ✔️</a> </li>
         <li><a href="#">List of Graduates</a></li>
         <li><a href="#">Employment Report</a></li>
         <li><a href="#">Training - Progress Monitoring</a></li>

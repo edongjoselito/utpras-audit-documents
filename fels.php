@@ -31,7 +31,7 @@
           </h1>
           <p class="text-sm">Program Documentation and Accreditation Requirements</p>
           <span class="inline-block mt-2 px-3 py-1 text-sm font-bold bg-white text-pink-600 rounded-full shadow">
-            CONTACT CENTER SERVICES NC II
+            FACILITATE E-LEARNING SESSIONS
           </span>
         </div>
       </div>
@@ -58,10 +58,9 @@
       <ul class="list-disc pl-6 space-y-2">
         <li><a href="#">Letter of Application/Intent (TESDA-OP-CO-F03)</a></li>
         <li><a href="#">Board Resolution/Academic Council Resolution signed by Board Secretary and Chairperson</a></li>
-        <li><a href="#">Special law creating the institution (e.g., Republic Act, EO, Resolutions)</a></li>
         <li><a href="#">SEC Registration for private institutions</a></li>
-        <li><a href="#">Articles of Incorporation (include main address)</a></li>
-        <li><a href="#">Proof of building ownership or valid lease contract (min. 2 years)</a></li>
+        <li><a href="#">Articles of Incorporation</a></li>
+        <li><a href="#">Proof of building ownership or valid lease contract</a></li>
         <li><a href="#">Current Fire Safety Certificate (for training site)</a></li>
       </ul>
     </section>
@@ -117,12 +116,24 @@
       </ul>
     </section>
 
+    <section class="bg-white shadow rounded-xl p-6">
+      <h2 class="text-xl font-semibold mb-4">MOBILE TRAINING PROGRAM</h2>
+      <ul class="list-disc pl-6 space-y-2">
+
+        <li><a href="#" target="_blank">Training Plan </a></li>
+        <li><a href="#" target="_blank">List of Trainers <span style="color: red;">(raw file, not signed)</span></a></li>
+        <li><a href="#" target="_blank">List of Equipment <span style="color: red;">(raw file, not signed)</span></a></li>
+        <li><a href="#" target="_blank">List of Tools <span style="color: red;">(raw file, not signed)</span></a></li>
+        <li><a href="#" target="_blank">List of Instructional Materials <span style="color: red;">(raw file, not signed)</span></a></li>
+        <!-- <li><a href="#">Training - Institutional Assessment MOVs</a></li>  -->
+      </ul>
+    </section>
 
     <section class="bg-white shadow rounded-xl p-6">
       <h2 class="text-xl font-semibold mb-4">OTHER DOCUMENTS</h2>
       <ul class="list-disc pl-6 space-y-2">
-        <li><a href="https://drive.google.com/file/d/1EHfwfQ65L9t2VRbfBBW7ohgT1to4GNeq/view?usp=sharing" target="_blank">Complete Application Documents ✔️</a></li>
-        <li><a href="#">List of Graduates</a></li>
+        <li><a href="#" target="_blank">Application Documents</a> </li>
+        <li><a href="https://drive.google.com/file/d/1rbVgyj4-0UWevamjqwjoCMmhzY528lft/view?usp=sharing" target="_blank">Application Reference - Competency Standards ✔️</a> </li>
         <li><a href="#">Employment Report</a></li>
         <li><a href="#">Training - Progress Monitoring</a></li>
         <li><a href="#">Training - Institutional Assessment MOVs</a></li>
