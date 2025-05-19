@@ -62,6 +62,8 @@
         <li><a href="#">SEC Registration for private institutions</a></li>
         <li><a href="#">Articles of Incorporation (include main address)</a></li>
         <li><a href="#">Proof of building ownership or valid lease contract (min. 2 years)</a></li>
+        <li><a href="#">Curriculum Design</a></li>
+        <li><a href="#">Training Plan</a></li>
         <li><a href="#">Current Fire Safety Certificate (for training site)</a></li>
       </ul>
     </section>
