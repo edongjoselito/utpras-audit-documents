@@ -34,6 +34,7 @@
     <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
       <li><a href="web-dev-utpras.php" class="flex items-center gap-2 p-4 bg-white shadow rounded hover:bg-blue-50 transition"><i class="fas fa-code"></i> Web Development NC III</a></li>
       <li><a href="vgd-utpras.php" class="flex items-center gap-2 p-4 bg-white shadow rounded hover:bg-blue-50 transition"><i class="fas fa-paint-brush"></i> Visual Graphic Design NC III</a></li>
+      <li><a href="vgd-utpras-mtp.php" class="flex items-center gap-2 p-4 bg-white shadow rounded hover:bg-blue-50 transition"><i class="fas fa-paint-brush"></i> Visual Graphic Design NC III - MTP</a></li>
       <li><a href="css-utpras.php" class="flex items-center gap-2 p-4 bg-white shadow rounded hover:bg-blue-50 transition"><i class="fas fa-desktop"></i> Computer Systems Servicing NC II</a></li>
       <li><a href="contact-center.php" class="flex items-center gap-2 p-4 bg-white shadow rounded hover:bg-blue-50 transition"><i class="fas fa-headset"></i> Contact Center Services NC II</a></li>
       <li><a href="bcl.php" class="flex items-center gap-2 p-4 bg-white shadow rounded hover:bg-blue-50 transition"><i class="fas fa-keyboard"></i> Basic Computer Literacy (NTR)</a></li>
@@ -61,6 +62,9 @@
             <i class="fas fa-paint-brush"></i> Visual Graphic Design NC III
           </a>
         </li>
+
+
+
         <li>
           <a href="css-ac.php" class="bg-white shadow rounded p-4 flex items-center gap-2 hover:bg-blue-50 transition">
             <i class="fas fa-desktop"></i> Computer Systems Servicing NC II
