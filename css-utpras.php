@@ -129,6 +129,7 @@
         <li><a href="#">Employment Report</a></li>
         <li><a href="#">Training - Progress Monitoring</a></li>
         <li><a href="#">Training - Institutional Assessment MOVs</a></li>
+        <li><a href="https://drive.google.com/file/d/1G1dbjxnLH_Qm0gtWPHJjCH5nTQwlHudE/view?usp=sharing" target="_blank">Training Regulation - CSS NC II</a></li>
       </ul>
     </section>
 

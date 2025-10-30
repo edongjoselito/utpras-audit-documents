@@ -125,7 +125,7 @@
         <li><a href="https://drive.google.com/file/d/14np2EKFHgvRQWdWFWscVerOaL5bY0Kci/view?usp=sharing" target="_blank">Inspection Report </a> </li>
         <li><a href="https://drive.google.com/file/d/1I9JjqoyYx94yA3WQfidYLKM5EJpFZprl/view?usp=sharing" target="_blank">Letter of Acknowledgement</a></li>
         <li><a href="https://drive.google.com/file/d/1_c1rY4yXevi9MN2gmCTTPg9QyQi-5vzZ/view?usp=sharing" target="_blank">Memo</a></li>
-        <li>Session Plan</li>
+        <li><a href="#">Session Plan</a></li>
       </ul>
     </section>
 
