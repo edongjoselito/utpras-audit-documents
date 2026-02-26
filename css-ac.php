@@ -56,7 +56,7 @@
     <section class="mt-2">
       <h2 class="text-xl font-bold mb-4">Assessment Center Accreditation Requirements</h2>
       <ol class="list-decimal list-inside space-y-2 bg-white p-6 rounded shadow">
-        <li><a href="#">Letter of Intent</a></li>
+        <li><a href="https://drive.google.com/file/d/1LD83aan940UhMCWlq5SmLyBaii9mOtmO/view?usp=drive_link">Letter of Intent</a></li>
         <li><a href="https://drive.google.com/file/d/1DRV8AEzcR3uHJBA7OkOViTwsLoHR78Bt/view?usp=drive_link">SEC Registration <span style="color: red;">(Not Complete)</span> </a></li>
         <li>
           <a href="#">Financial Statement <span style="color: red;">(Not the Latest)</span></a>
@@ -65,10 +65,10 @@
             <li>For Existing: Latest Audited by a third party</li>
           </ul>
         </li>
-        <li><a href="#">Business Permit (2025)</a></li>
-        <li><a href="#">Fire Safety Certificate <span style="color: red;">(Expired)</span></a></li>
+        <li><a href="https://drive.google.com/file/d/1v6fFexjBvXdr7rMUfJgqkJbK_sO2Ha6q/view?usp=drive_link">Business Permit (2025)</a></li>
+        <li><a href="https://drive.google.com/file/d/17dn39FvVYWvCdJc7R2bwMEfkpsc512P-/view?usp=drive_link">Fire Safety Certificate <span style="color: red;">(Expired)</span></a></li>
         <li><a href="#">BIR Registration (Valid)</a></li>
-        <li><a href="#">Company Profile</a></li>
+        <li><a href="https://drive.google.com/file/d/1wtRUXT35mf7ii75HPsW0OoicZNOBvtxh/view?usp=drive_link">Company Profile</a></li>
         <li><a href="#">Organizational Structure</a></li>
         <li>
           <a href="#">Staff Complement and Profile</a>
@@ -80,10 +80,10 @@
           </ul>
         </li>
         <li><a href="#">Building lay-out/floor plan/shop lay-out</a></li>
-        <li><a href="#">Self-Assessment Checklist (TESDA-OP-CO-03-F02) <span style="color: red;">- Not Signed</span></a></li>
+        <li><a href="https://drive.google.com/file/d/1ZnATO1kWJR9TlB0pKRShSp7wn51tZcwc/view?usp=drive_link">Self-Assessment Checklist (TESDA-OP-CO-03-F02) <span style="color: red;">- Not Signed</span></a></li>
         <li><a href="#">List of complete facilities, tools, equipment, and materials appropriate to the qualification/ applied for (identified in the CATs)<span style="color: red;">- Not From CATS</span></a></li>
-        <li><a href="#">Location map</a></li>
-        <li><a href="#">Lease Contract/Proof of Ownership of the location/premises of the Assessment Center</a></li>
+        <li><a href="https://drive.google.com/file/d/1tob_76UpAiNTYR-7upj3sbX4ZS2PlyFC/view?usp=drive_link">Location map</a></li>
+        <li><a href="https://drive.google.com/file/d/1wW-aMF60n1Z3cF6d17Kzq1Rp7LNIY_2Y/view?usp=drive_link">Lease Contract/Proof of Ownership of the location/premises of the Assessment Center</a></li>
         <li><a href="#">Checklist of tools, equipment, supplies and materials, and facilities (TESDA-OP-CO-03-F04) <span style="color: red;">- Not Signed</span></a></li>
       </ol>
     </section>

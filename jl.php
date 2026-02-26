@@ -78,11 +78,11 @@
               <td class="px-4 py-2 border"></td>
             </tr>
             <tr>
-              <td class="px-4 py-2 border"><a href="#">Proof of building ownership or valid lease contract</a></td>
+              <td class="px-4 py-2 border"><a href="https://drive.google.com/file/d/17NTA3O_elUT3562V33ut_iHdUjCfJwIQ/view?usp=sharing">Proof of building ownership or valid lease contract</a></td>
               <td class="px-4 py-2 border"></td>
             </tr>
             <tr>
-              <td class="px-4 py-2 border"><a href="#">Current Fire Safety Certificate (for training site)</a></td>
+              <td class="px-4 py-2 border"><a href="https://drive.google.com/file/d/1gA0W7cw5fllulA2oNdnTvb7Uvva6rFOs/view?usp=sharing">Current Fire Safety Certificate (for training site)</a></td>
               <td class="px-4 py-2 border"></td>
             </tr>
           </tbody>
@@ -103,7 +103,7 @@
           </thead>
           <tbody class="divide-y">
             <tr>
-              <td class="px-4 py-2 border"><a href="#">Competency-based Curriculum (TESDA-OP-CO-01-F11)</a></td>
+              <td class="px-4 py-2 border"><a href="https://drive.google.com/file/d/1SPbg_2B9L1fBSLatfIeK55AkEJYIxTYG/view?usp=sharing">Competency-based Curriculum (TESDA-OP-CO-01-F11)</a></td>
               <td class="px-4 py-2 border"></td>
             </tr>
             <tr>
@@ -115,11 +115,11 @@
               <td class="px-4 py-2 border"></td>
             </tr>
             <tr>
-              <td class="px-4 py-2 border"><a href="#">List of Equipment, Tools, and Consumables (TESDA-OP-CO-01-F13 to F15)</a></td>
+              <td class="px-4 py-2 border"><a href="https://drive.google.com/file/d/1ouf8w-_5qp05b_oSHq8wdMuZfuF2M2Ia/view?usp=sharing">List of Equipment, Tools, and Consumables (TESDA-OP-CO-01-F13 to F15)</a></td>
               <td class="px-4 py-2 border"></td>
             </tr>
             <tr>
-              <td class="px-4 py-2 border"><a href="#">Instructional Materials (TESDA-OP-CO-01-F16)</a></td>
+              <td class="px-4 py-2 border"><a href="https://drive.google.com/file/d/12Bftn55cLAN13RdSsXdehTQRDl_WQfHW/view?usp=sharing">Instructional Materials (TESDA-OP-CO-01-F16)</a></td>
               <td class="px-4 py-2 border"></td>
             </tr>
             <tr>
@@ -131,7 +131,7 @@
               <td class="px-4 py-2 border"></td>
             </tr>
             <tr>
-              <td class="px-4 py-2 border"><a href="#">Institutional Assessment (tools shown during inspection)</a></td>
+              <td class="px-4 py-2 border"><a href="https://drive.google.com/file/d/12PindMb9zvFRk-gzVJ3x24OnksHCLy1l/view?usp=sharing">Institutional Assessment (tools shown during inspection)</a></td>
               <td class="px-4 py-2 border"></td>
             </tr>
           </tbody>
@@ -152,7 +152,7 @@
           </thead>
           <tbody class="divide-y">
             <tr>
-              <td class="px-4 py-2 border"><a href="#">List of Officials (TESDA-OP-CO-01-F19)</a></td>
+              <td class="px-4 py-2 border"><a href="https://drive.google.com/file/d/1s7SokFK7b1MtyIcMdiU_1WMdxb7kv26J/view?usp=sharing">List of Officials (TESDA-OP-CO-01-F19)</a></td>
               <td class="px-4 py-2 border"></td>
             </tr>
             <tr>
@@ -160,7 +160,7 @@
               <td class="px-4 py-2 border"></td>
             </tr>
             <tr>
-              <td class="px-4 py-2 border"><a href="#">List of Non-Teaching Staff (TESDA-OP-CO-01-F21) with supporting documentation</a></td>
+              <td class="px-4 py-2 border"><a href="https://drive.google.com/file/d/1wo-02J2ZeBo7hPmaeLTUxIrp006YhQNl/view?usp=sharing">List of Non-Teaching Staff (TESDA-OP-CO-01-F21) with supporting documentation</a></td>
               <td class="px-4 py-2 border"></td>
             </tr>
           </tbody>
@@ -181,19 +181,19 @@
           </thead>
           <tbody class="divide-y">
             <tr>
-              <td class="px-4 py-2 border"><a href="#">Program fees with breakdown and fee schedule signed by school head</a></td>
+              <td class="px-4 py-2 border"><a href="https://drive.google.com/file/d/14YYcD7zLeEp70X1rdqIlnzmfuCAMmSbP/view?usp=sharing">Program fees with breakdown and fee schedule signed by school head</a></td>
               <td class="px-4 py-2 border"></td>
             </tr>
             <tr>
-              <td class="px-4 py-2 border"><a href="#">Documented grading system provided to students</a></td>
+              <td class="px-4 py-2 border"><a href="https://drive.google.com/file/d/1rSS2M8HjT9XBZMFUMoqZEtsCm7brgPO5/view?usp=sharing">Documented grading system provided to students</a></td>
               <td class="px-4 py-2 border"></td>
             </tr>
             <tr>
-              <td class="px-4 py-2 border"><a href="#">Entry requirements comply with training regulations</a></td>
+              <td class="px-4 py-2 border"><a href="https://drive.google.com/file/d/17qPqt7Y4899J7xPQMvkNOc5vcR4l8cVn/view?usp=sharing">Entry requirements comply with training regulations</a></td>
               <td class="px-4 py-2 border"></td>
             </tr>
             <tr>
-              <td class="px-4 py-2 border"><a href="#">Rules on attendance</a></td>
+              <td class="px-4 py-2 border"><a href="https://drive.google.com/file/d/11wIiptKZ32jIpIb17mmqGtPO1mi8sYxW/view?usp=sharing">Rules on attendance</a></td>
               <td class="px-4 py-2 border"></td>
             </tr>
           </tbody>
@@ -214,7 +214,7 @@
           </thead>
           <tbody class="divide-y">
             <tr>
-              <td class="px-4 py-2 border"><a href="#">Health services (MOA/contract if outsourced)</a></td>
+              <td class="px-4 py-2 border"><a href="https://drive.google.com/file/d/1qA13BSom3TnlKNg5a-xFpQDjaVFyqank/view?usp=sharing">Health services (MOA/contract if outsourced)</a></td>
               <td class="px-4 py-2 border"></td>
             </tr>
             <tr>

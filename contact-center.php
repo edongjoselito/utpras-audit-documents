@@ -56,12 +56,12 @@
     <section class="bg-white shadow rounded-xl p-6">
       <h2 class="text-xl font-semibold mb-4">1. CORPORATE AND ADMINISTRATIVE DOCUMENTS</h2>
       <ul class="list-disc pl-6 space-y-2">
-        <li><a href="#">Letter of Application/Intent (TESDA-OP-CO-F03)</a></li>
-        <li><a href="#">Board Resolution/Academic Council Resolution signed by Board Secretary and Chairperson</a></li>
-        <li><a href="#">Special law creating the institution (e.g., Republic Act, EO, Resolutions)</a></li>
+        <li><a href="https://drive.google.com/file/d/1CbeJ-q6oKbZNOpdSsTVbQWfQAtcSszLa/view?usp=drive_link">Letter of Application/Intent (TESDA-OP-CO-F03)</a></li>
+        <li><a href="https://drive.google.com/file/d/14F-t7B29qM93fdlPU3zx2LdPJhfQZOqj/view?usp=drive_link">Board Resolution/Academic Council Resolution signed by Board Secretary and Chairperson</a></li>
+        <li><a href="https://drive.google.com/file/d/1YID3XWoi8jsgVUOBKgreDAfT-KSEtTVK/view?usp=drive_link">Special law creating the institution (e.g., Republic Act, EO, Resolutions)</a></li>
         <li><a href="#">SEC Registration for private institutions</a></li>
         <li><a href="#">Articles of Incorporation (include main address)</a></li>
-        <li><a href="#">Proof of building ownership or valid lease contract (min. 2 years)</a></li>
+        <li><a href="https://drive.google.com/file/d/1PigMke_BfrEPzcgkNBRZkww4YQssV4Ox/view?usp=drive_link">Proof of building ownership or valid lease contract (min. 2 years)</a></li>
         <li><a href="#">Current Fire Safety Certificate (for training site)</a></li>
       </ul>
     </section>
@@ -77,11 +77,11 @@
             <li><a href="#">Modules of Instruction</a></li>
           </ul>
         </li>
-        <li><a href="#">List of Equipment, Tools, and Consumables (TESDA-OP-CO-01-F13 to F15)</a></li>
-        <li><a href="#">Instructional Materials (TESDA-OP-CO-01-F16)</a></li>
-        <li><a href="#">Physical Facilities (TESDA-OP-CO-01-F17, F18)</a></li>
-        <li><a href="#">Shop layout with indicated floor area</a></li>
-        <li><a href="#">Institutional Assessment (tools shown during inspection)</a></li>
+        <li><a href="https://drive.google.com/file/d/1Ks8cYx-M8JLSaIGi17GlshclhZg3AcPS/view?usp=drive_link">List of Equipment, Tools, and Consumables (TESDA-OP-CO-01-F13 to F15)</a></li>
+        <li><a href="https://drive.google.com/file/d/1uynDIhYDex53tkmUdpWywxC8YUo6qZCV/view?usp=drive_link">Instructional Materials (TESDA-OP-CO-01-F16)</a></li>
+        <li><a href="https://drive.google.com/file/d/11ULvnkkyTgQxSDaGZUccGTQsPLpsatql/view?usp=drive_link">Physical Facilities (TESDA-OP-CO-01-F17, F18)</a></li>
+        <li><a href="https://drive.google.com/file/d/115zmMV-hLgzf_LgJIuPSSl0ntXfnrMxh/view?usp=drive_link">Shop layout with indicated floor area</a></li>
+        <li><a href="https://drive.google.com/file/d/1YnwCxT1x6dpT05zqSJpvvwebwSkvlWjn/view?usp=drive_link">Institutional Assessment (tools shown during inspection)</a></li>
       </ul>
     </section>
 
@@ -89,9 +89,9 @@
     <section class="bg-white shadow rounded-xl p-6">
       <h2 class="text-xl font-semibold mb-4">3. FACULTY AND PERSONNEL</h2>
       <ul class="list-disc pl-6 space-y-2">
-        <li><a href="#">List of Officials (TESDA-OP-CO-01-F19)</a></li>
-        <li><a href="#">List of Trainers (TESDA-OP-CO-01-F20) with qualifications, certifications, and contracts</a></li>
-        <li><a href="#">List of Non-Teaching Staff (TESDA-OP-CO-01-F21) with supporting documentation</a></li>
+        <li><a href="https://drive.google.com/file/d/1mHGe-59WqBpf4Kefx7AnX70JH7ODIfg8/view?usp=drive_link">List of Officials (TESDA-OP-CO-01-F19)</a></li>
+        <li><a href="https://drive.google.com/file/d/1FgR2_N9H2H2y7QTiT9LOrlRuq-PtgiA9/view?usp=drive_link">List of Trainers (TESDA-OP-CO-01-F20) with qualifications, certifications, and contracts</a></li>
+        <li><a href="https://drive.google.com/file/d/1YaxoE3kKJ6VjcjGgc1s8iA7eHmiOVT0f/view?usp=drive_link">List of Non-Teaching Staff (TESDA-OP-CO-01-F21) with supporting documentation</a></li>
       </ul>
     </section>
 
@@ -101,8 +101,8 @@
       <ul class="list-disc pl-6 space-y-2">
         <li><a href="#">Program fees with breakdown and fee schedule signed by school head</a></li>
         <li><a href="#">Documented grading system provided to students</a></li>
-        <li><a href="#">Entry requirements comply with training regulations</a></li>
-        <li><a href="#">Rules on attendance</a></li>
+        <li><a href="https://drive.google.com/file/d/1Ufmuek0qJcAyLlJRxa1QQbDLgZEeADzu/view?usp=drive_link">Entry requirements comply with training regulations</a></li>
+        <li><a href="https://drive.google.com/file/d/18B54D2kxpR3MgjnsL9lryeEX14JYp4Jy/view?usp=drive_link">Rules on attendance</a></li>
       </ul>
     </section>
 
@@ -110,7 +110,7 @@
     <section class="bg-white shadow rounded-xl p-6">
       <h2 class="text-xl font-semibold mb-4">5. SUPPORT SERVICES</h2>
       <ul class="list-disc pl-6 space-y-2">
-        <li><a href="#">Health services (MOA/contract if outsourced)</a></li>
+        <li><a href="https://drive.google.com/file/d/1r2tKqN2yh9niQqkp42F1z2C9JuN84Dna/view?usp=drive_link">Health services (MOA/contract if outsourced)</a></li>
         <li><a href="#">Job Linkaging and Networking Services (JLNS) – TESDA Circular 38, s.2016</a></li>
         <li><a href="#">Optional: Community outreach program</a></li>
         <li><a href="#">Optional: Research program to support ongoing development</a></li>
