@@ -46,6 +46,7 @@
       <li><a href="fels.php" class="flex items-center gap-2 p-4 bg-white shadow rounded hover:bg-blue-50 transition"><i class="fas fa-car"></i> Facilitae e-Learning Sessions (FeLS)</a></li>
       <li><a href="dit.php" class="flex items-center gap-2 p-4 bg-white shadow rounded hover:bg-blue-50 transition"><i class="fas fa-car"></i> Diploma in Information Technology</a></li>
       <li><a href="mcc-ci.php" class="flex items-center gap-2 p-4 bg-white shadow rounded hover:bg-blue-50 transition"><i class="fas fa-car"></i> MCC - Codeigniter Framework</a></li>
+       <li><a href="mcc-ci.php" class="flex items-center gap-2 p-4 bg-white shadow rounded hover:bg-blue-50 transition"><i class="fas fa-car"></i> MCC - Print Media</a></li>
     </ul>
 
 
